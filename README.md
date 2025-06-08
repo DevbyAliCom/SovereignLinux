@@ -26,3 +26,16 @@ To get started, simply clone this repository:
 ```bash
 git clone [https://github.com/DevbyAliCom/SovereignLinus.git](https://github.com/DevbyAliCom/SovereignLinus.git) # Or your updated repo URL
 cd SovereignLinus
+```
+### **Repository Contents (Current)**
+
+ backup-engine.sh:
+ Featured in the article "Securing Your Empire: Encrypted Backups" (Part 2 of the series).
+ This script orchestrates automated, encrypted, and deduplicated backups of your self-hosted GitLab instance to Amazon S3 using BorgBackup and Rclone. It embodies the principles of privacy, security, and automation.
+
+### ** Contribution & Engagement**
+  Found a bug or have an improvement for a script? Open an Issue or submit a Pull Request.
+  Have ideas for future articles or aspects of the Elite, Open Source Empire you'd like to see covered? Engage with the article comments or open a discussion on this repo!
+
+### ** License**
+This project is licensed under the MIT License. 
