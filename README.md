@@ -17,7 +17,8 @@ This repository is the code companion to the "Sovereign Linux" article series, a
 
 ---
 
-### **How to Use This Repository**
+
+### **How to Use This Repository** 
 
 This repository contains the practical scripts and configuration files referenced in the "Sovereign Linux" article series. Each component is designed to be a building block for your own digital empire.
 
