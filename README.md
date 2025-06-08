@@ -1,4 +1,4 @@
-# SovereignLinux# Sovereign Linux: Forging Your Elite, Private, Secure & Optimized Empire
+# Sovereign Linux: Forging Your Elite, Private, Secure & Optimized Empire
 
 ## Welcome to the Sovereign Linux Repository!
 
